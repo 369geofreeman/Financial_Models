@@ -4,7 +4,7 @@
 
 ##### Projects:
 
-    * [Retirement model](#Retirement_model)
+- [Retirement model](#Retirement_model)
 
 ### Retirement model
 
@@ -18,4 +18,4 @@
 - **Wealths**: Determining the wealth in each year, considering a constant savings rate and investment rate
 - **Retirement**: Determines years to retirement from the wealths over time, the main output from the model.
 
-</hr>
+---
