@@ -2,6 +2,10 @@
 
 **All projects have been created in both python and excel workbooks**
 
+##### Projects:
+
+    * [Retirement model](#Retirement_model)
+
 ### Retirement model
 
 [Python code](https://github.com/369geofreeman/Financial_Models/blob/main/code/Retirement_model_with_iteration/dynamic_retirement_model.ipynb) | [Excel Workbook](https://github.com/369geofreeman/Financial_Models/blob/main/Excel/retirement%20with%20iteration.xlsx)
@@ -14,4 +18,4 @@
 - **Wealths**: Determining the wealth in each year, considering a constant savings rate and investment rate
 - **Retirement**: Determines years to retirement from the wealths over time, the main output from the model.
 
-</br>
+</hr>
