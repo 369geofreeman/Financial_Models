@@ -18,6 +18,6 @@
 - **Wealths**: Determining the wealth in each year, considering a constant savings rate and investment rate
 - **Retirement**: Determines years to retirement from the wealths over time, the main output from the model.
 
-<img src="img/ret_mod_excel.png" alt="Retirement_excel_img" width="500"/><img src="img/ret_mod_python.png" alt="Retirement_python_img" width="400"/>
+<img src="img/ret_mod_excel.png" alt="Retirement_excel_img" width="600"/><
 
 ---
