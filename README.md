@@ -4,9 +4,10 @@
 
 ##### Projects:
 
-- [Retirement Model](#Retirement_model)
+- [Retirement Model (Static model)](#Static_Retirement_Model)
+- [Retirement Model (Sensitivity Analysis)](#Sensitivity_Analysis_Retirement_Model)
 
-## Retirement model
+## Static Retirement Model
 
 [Python code](https://github.com/369geofreeman/Financial_Models/blob/main/code/Retirement_model_with_iteration/dynamic_retirement_model.ipynb) | [Excel Workbook](https://github.com/369geofreeman/Financial_Models/blob/main/Excel/retirement%20with%20iteration.xlsx)
 
@@ -21,3 +22,28 @@
 <img src="img/ret_mod_excel.png" alt="Retirement_excel_img" width="666"/>
 
 ---
+
+## Sensitivity Analysis Retirement Model
+
+[Python code]() | [Excel Workbook]()
+
+- Applying sensitivity analysis to the retirement model allows us to understand how the full range of possible inputs affects the results of the model.
+- We are running the model multiple times with different inputs and showing the outputs.
+- Importantly we will focus more on visualisation, as now there are many different outputs it is easier to draw meaning from them when visualised.
+
+<img src="img/sen_ana_2.png" alt="sesitivity_analysis_img" width="600"/>
+
+**Formal definition**
+<img src="img/sen_ana.png" alt="sesitivity_analysis_img" width="300"/>
+
+- **y**: model output
+- **X**: model input matrix
+- **xi**: Value of **ith x** variable
+
+**for the folowwing steps**
+
+- Choose a set of values for each **xi**
+- Take the cartesian product of these values as **[X1, X2, ..., Xn]**
+- For each **Xi** calculate **yi = f(Xi)**
+- Store the values of **Xi** mapped to **yi**
+- Visualise **yi** versus **Xi**
