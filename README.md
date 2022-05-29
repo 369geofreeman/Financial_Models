@@ -40,7 +40,7 @@
 - **X**: model input matrix
 - **xi**: Value of **ith x** variable
 
-**for the folowwing steps**
+**For the folowwing steps**
 
 - Choose a set of values for each **xi**
 - Take the cartesian product of these values as **[X1, X2, ..., Xn]**
