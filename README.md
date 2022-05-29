@@ -34,6 +34,7 @@
 <img src="img/sen_ana_2.png" alt="sesitivity_analysis_img" width="600"/>
 
 **Formal definition**
+
 <img src="img/sen_ana.png" alt="sesitivity_analysis_img" width="300"/>
 
 - **y**: model output
