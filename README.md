@@ -49,4 +49,4 @@
 - Store the values of **Xi** mapped to **yi**
 - Visualise **yi** versus **Xi**
 
-<img src="img/sen_ana_3.png" alt="sesitivity_analysis_img" width="300"/>
+<img src="img/sen_ana_3.png" alt="sesitivity_analysis_img" width="666"/>
