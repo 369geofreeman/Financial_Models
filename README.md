@@ -25,7 +25,7 @@
 
 ## Sensitivity Analysis Retirement Model
 
-[Python code]() | [Excel Workbook]()
+[Python code]() | [Excel Workbook](https://github.com/369geofreeman/Financial_Models/blob/main/Excel/Dynamic Salary Retirement_Model_External_Scenarios.xlsx)
 
 - Applying sensitivity analysis to the retirement model allows us to understand how the full range of possible inputs affects the results of the model.
 - We are running the model multiple times with different inputs and showing the outputs.
@@ -48,3 +48,5 @@
 - For each **Xi** calculate **yi = f(Xi)**
 - Store the values of **Xi** mapped to **yi**
 - Visualise **yi** versus **Xi**
+
+<img src="img/sen_ana_3.png" alt="sesitivity_analysis_img" width="300"/>
