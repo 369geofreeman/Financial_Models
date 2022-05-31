@@ -4,8 +4,8 @@
 
 ##### Projects:
 
-- [Retirement Model (Static model)](#Static_Retirement_Model)
-- [Retirement Model (Sensitivity Analysis)](#Sensitivity_Analysis_Retirement_Model)
+- [Static Retirement Model](#static_retirement_model)
+- [Sensitivity Analysis Retirement Model](#sensitivity_analysis_retirement_model)
 
 ## Static Retirement Model
 
