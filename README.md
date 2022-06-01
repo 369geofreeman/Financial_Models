@@ -27,6 +27,8 @@
 
 [Python code]() | [Excel Workbook](https://github.com/369geofreeman/Financial_Models/blob/main/Excel/Dynamic%20Salary%20Retirement_Model_External_Scenarios.xlsx)
 
+For a detailed worked view of Sensitivity Analysis in a Jupyter notebook [Click Here](https://github.com/369geofreeman/Financial_Models/blob/main/code/Retirement_model_with_sesitivity_analysis/sensitivity_analysis.ipynb)
+
 Sensitivity analysis is the process of passing different inputs to a model to see how the outputs change. it differs from Monte Carlo Simulation in that no probability distributions are assigned to the inputs, and typically larger ranges of the inputs are chosen. the purpose of Sensitivity Analysis is to understand how the outputs change over the full range of possible inputs. Sentitivity Analysis does not derive any expected outcome or a probability distribution of outcomes, instead returning a range of possible output variables associated with each set of inputs.
 
 - Applying sensitivity analysis to the retirement model allows us to understand how the full range of possible inputs affects the results of the model.
