@@ -1,7 +1,5 @@
 # Financial modelling in Python and Excel
 
-**Created with python jupyter notebooks and excel workbooks**
-
 ##### Projects:
 
 **Retirement Model**
@@ -98,7 +96,7 @@ Equity investment is limited, so in each year we can spend c_machine to either b
 
 # Machines Manufacturing Captal Budgeting Model
 
-**[jupyter notebook]()**
+**[jupyter notebook](https://github.com/369geofreeman/Financial_Models/blob/main/code/tvm/tvm.ipynb)**
 
 ### Overview
 
