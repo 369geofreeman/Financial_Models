@@ -1,13 +1,13 @@
 # Financial modelling in Python and Excel
 
-##### Projects:
+## Projects:
 
-**Retirement Model**
+**1) Retirement Model**
 
 - [Static Retirement Model](#static-retirement-model)
 - [Sensitivity Analysis Retirement Model](#sensitivity-analysis-retirement-model)
 
-**Time Value of Money (TVM)**
+**2) Time Value of Money (TVM)**
 
 - [Machines Manufacturing Captal Budgeting Model](#machines-manufacturing-captal-budgeting-model)
 
