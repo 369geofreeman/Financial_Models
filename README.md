@@ -31,7 +31,7 @@
 
 ## Sensitivity Analysis Retirement Model
 
-[Python code]() | [Excel Workbook](https://github.com/369geofreeman/Financial_Models/blob/main/Excel/Dynamic%20Salary%20Retirement_Model_External_Scenarios.xlsx)
+[Python code](https://github.com/369geofreeman/Financial_Models/blob/main/code/Retirement_model_with_sesitivity_analysis/Dynamic%20Salary%20Retirement%20Model%20Sensitivity.ipynb) | [Excel Workbook](https://github.com/369geofreeman/Financial_Models/blob/main/Excel/Dynamic%20Salary%20Retirement_Model_External_Scenarios.xlsx)
 
 For a detailed worked view of Sensitivity Analysis in a Jupyter notebook [Click Here](https://github.com/369geofreeman/Financial_Models/blob/main/code/Retirement_model_with_sesitivity_analysis/sensitivity_analysis.ipynb)
 
