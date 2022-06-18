@@ -114,3 +114,5 @@ Equity investment is limited, so in each year you can spend $c_{machine}$ to eit
 - For simplicity, assume that is paid in every year, even after all machines have shut down.
 - Ensure that you can change the inputs and the outputs change as expected.
 - For simplicity, assume that fractional phones can be sold, you do not need to round the quantity transacted.
+
+<img src="img/machine.png" alt="Retirement_excel_img" width="666"/>
