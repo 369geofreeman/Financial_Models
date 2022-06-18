@@ -11,6 +11,8 @@
 
 - [Machines Manufacturing Captal Budgeting Model](#machines-manufacturing-captal-budgeting-model)
 
+<hr>
+
 ## Static Retirement Model
 
 [Python code](https://github.com/369geofreeman/Financial_Models/blob/main/code/Retirement_model_with_iteration/dynamic_retirement_model.ipynb) | [Excel Workbook](https://github.com/369geofreeman/Financial_Models/blob/main/Excel/retirement%20with%20iteration.xlsx)
@@ -96,7 +98,7 @@ Equity investment is limited, so in each year we can spend c_machine to either b
 
 # Machines Manufacturing Captal Budgeting Model
 
-**[jupyter notebook](https://github.com/369geofreeman/Financial_Models/blob/main/code/tvm/tvm.ipynb)**
+**[jupyter notebook](https://github.com/369geofreeman/Financial_Models/blob/main/code/tvm/tvm.ipynb)** | [Excel Worksheet](https://github.com/369geofreeman/Financial_Models/blob/main/Excel/TVM_Static.xlsx)
 
 ### Overview
 
